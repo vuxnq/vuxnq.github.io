@@ -1,8 +1,8 @@
-Origin: Repo Manager Deluxe Default Origin
-Label: Repo Manager Deluxe Default Name
+Origin: vuxnq
+Label: vuxnq
 Suite: stable
 Version: 1.0
-Codename: iospackagemanagerdeluxe
+Codename: vuxnq
 Architectures: iphoneos-arm
 Components: main
-Description: Made with Repo Manager Deluxe
+Description: rEpO

@@ -1,0 +1,9 @@
+Package: com.vuxnq.saiko
+Name: SAIKO
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Supreme Icon Pack
+Author: vuxnq
+Maintainer: vuxnq
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard

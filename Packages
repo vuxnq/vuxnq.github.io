@@ -1,0 +1,18 @@
+Package: com.vuxnq.saiko
+Name: SAIKO
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Supreme Icon Pack
+Author: vuxnq
+Maintainer: vuxnq
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.vuxnq.saiko.deb
+Depiction: https://vuxnq.github.io/depictions/com.vuxnq.saiko.html
+Icon: https://vuxnq.github.io/icons/com.vuxnq.saiko.png
+Size: 5697216
+MD5sum: c161e292dda374961916ed60dfca0408
+SHA1: 14e8a3afadef3cfc5628037e139591dbe6c26aa9
+SHA256: e7f9f01f712cdf0b3ae1f07ed00aad6b2c6ddd05865de74508352cc8ad28822a
+SHA521: 9fad3d9b4e66cd520fe94030dfd4c4636d2431687819d02f70156e30c1e45d13c9351b447527297b133d515e2c11eba78ced78ec0a23463318c2aa1a1a07a30e
+
